@@ -8,4 +8,4 @@ Welcome, everyone! Vintellect is a project that includes a mobile application an
 
 📱 [Mobile App](https://github.com/Vintellect/mobile-application) 📱
 
-👨‍🏫 [School Information (Incoming Later This Week)]() 👨‍🏫
+👨‍🏫 [School Information (Incoming later)]() 👨‍🏫
